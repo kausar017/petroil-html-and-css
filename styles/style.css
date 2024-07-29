@@ -128,3 +128,10 @@ header{
     margin: 0 auto;
 }
 /* images section ending */
+
+/* Our Services section starting */
+.Our-Services{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+/* Our Services section ending */
